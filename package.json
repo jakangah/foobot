@@ -1,0 +1,30 @@
+{
+  "author": {
+    "email": "jakangah@gmail.com",
+    "name": "Justice Adeenze-Kangah"
+  },
+  "bugs": {
+    "url": "https://github.com/jakangah/foobot/issues"
+  },
+  "dependencies": {
+    "request": "^2.34.0"
+  },
+  "description": "A node.js module to hook into the foobot api.",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/jakangah/foobot",
+  "keywords": [
+    "foobot",
+    "foobot api"
+  ],
+  "license": "MIT",
+  "main": "foobot.js",
+  "maintainers": [
+    {
+      "name": "Justice",
+      "email": "jakangah@gmail.com"
+    }
+  ],
+  "name": "foobot",
+  "version": "0.1.0"
+}
