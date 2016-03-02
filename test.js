@@ -1,4 +1,4 @@
-var foobot = require('./foobot');
+var foobot = require('./foobot-api');
 
 var auth = {
     "api_key": "",
