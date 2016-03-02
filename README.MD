@@ -18,7 +18,7 @@ npm install foobot-api
 
 Example
 -------
-
+```
 var foobot = require('./foobot');
 
 var auth = {
@@ -52,4 +52,5 @@ api.datapoints(args , function(err , response){
 
     console.log(response);
 });
+```
 
